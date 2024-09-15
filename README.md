@@ -1,6 +1,6 @@
 👋 Hi, I’m Aman
 👀 I’m interested in Web Development & DSA
-🌱 I’m currently learning React & DSA with Python
+🌱 I’m currently learning React for web development and DSA using Python
 💞️ I’m looking to collaborate on web development and DSA projects
 📫 How to reach me: amanofficial0108@gmail.com
 😄 Pronouns: he/him
