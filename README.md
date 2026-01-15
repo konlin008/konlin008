@@ -38,10 +38,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<br/>
-
 ![](https://github-profile-trophy.vercel.app/?username=konlin008&theme=radical&no-frame=false&no-bg=true&margin-w=10)
 
 ## 🌐 Socials:
